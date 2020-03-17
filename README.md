@@ -1,6 +1,6 @@
 # BMI Calculator
 
-A new Flutter project.
+A Udemy Course Flutter project.
 
 ## Getting Started
 
